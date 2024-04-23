@@ -1,7 +1,7 @@
-# Timodo Ticketing
+# Timodo Group
 We sell tickets and awesome tools 🇪🇺❤️
 
-🏢 [Timodo HQ (Company)](https://timodohq.com)
+🏢 [Timodo Group (Company)](https://timodohq.com)
 
 🇳🇱 [Timodo Netherlands](https://timodo.nl)
 
